@@ -3,7 +3,7 @@ package fpinscala.answers.ch02
 import org.scalatest.funsuite.AnyFunSuite
 
 
-class GettingStartedTest extends AnyFunSuite {
+class GettingStartedSuite extends AnyFunSuite {
 
   import fpinscala.answers.ch02.GettingStarted._
 
